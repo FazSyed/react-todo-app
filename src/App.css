@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app__heading {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.app__form {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.app__button {
+    margin-left: 20px !important;
+}
+
+.app__todo {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
